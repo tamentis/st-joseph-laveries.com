@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
 
+User-agent: AhrefsBot
+Disallow: /cdn-cgi/
+
+User-agent: AhrefsSiteAudit
+Disallow: /cdn-cgi/
